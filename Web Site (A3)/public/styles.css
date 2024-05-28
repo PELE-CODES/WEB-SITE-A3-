@@ -11201,3 +11201,11 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+
+
+
+/* Adicione estas regras se desejar personalizar ainda mais o carrossel */
+.carousel-inner img {
+  border-radius: 10px;
+}
